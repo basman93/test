@@ -10,4 +10,4 @@ configure_file(
 
 include_directories("${PROJECT_BINARY_DIR}")
 
-add_executable(Test source.cxx)
+add_executable(Test source)
